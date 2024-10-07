@@ -7,3 +7,15 @@ US visa approval status - Given certain set of features such as (continent, educ
 ## workflow:
 1.constants
 2.entity
+3.components
+4.Pipeline
+
+
+### Export the environment variables
+'''bash
+
+export MONGODB_URL ="mongodb+srv://<username>:<password>...."
+
+'''
+
+
